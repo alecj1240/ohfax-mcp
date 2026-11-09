@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "ohfax": {
+      "type": "http",
+      "url": "https://app.ohfax.com/mcp"
+    }
+  }
+}
